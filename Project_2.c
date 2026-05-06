@@ -1,9 +1,6 @@
-Project 2 - Queues
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-//Veronica Ibrahim Wakileh 1220245 section 3
 int load=0,flag,flag1=0,flag2=0;// Flags for various operations // Global variables
 struct stack{//define a stack for undo and redo operations
 int index;//index of strings
